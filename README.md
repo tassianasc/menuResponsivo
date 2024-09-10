@@ -1,7 +1,6 @@
 # Menu Responsivo
 Este código cria um menu de navegação responsivo que se adapta a diferentes tamanhos de tela. Em telas maiores, ele exibe uma barra de navegação tradicional. Em telas menores, ele exibe um ícone de menu que, quando clicado, mostra um menu móvel.
 
-# Descrição
 # index.html
 Este arquivo HTML define a estrutura básica do seu site. Aqui está o que cada parte faz:
 
