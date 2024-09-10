@@ -7,17 +7,17 @@ Este arquivo HTML define a estrutura básica do seu site. Aqui está o que cada 
 
 !DOCTYPE html : Declara o tipo de documento como HTML5.
 <html lang=“pt-br”>: Define o idioma da página como português do Brasil.
-<head>: Contém metadados sobre o documento, como o conjunto de caracteres, a compatibilidade com navegadores e o link para o arquivo CSS.
-<body>: Contém o conteúdo visível da página.
-Dentro do <body>, temos:
+head: Contém metadados sobre o documento, como o conjunto de caracteres, a compatibilidade com navegadores e o link para o arquivo CSS.
+body: Contém o conteúdo visível da página.
+Dentro do body, temos:
 
-<header>: Define o cabeçalho da página.
-<nav class=“nav-bar”>: Cria uma barra de navegação com três seções principais:
-<div class=“logo”>: Contém o logotipo do site.
-<div class=“nav-list”>: Contém a lista de links de navegação.
-<div class=“login-button”>: Contém o botão de login.
-<div class=“mobile-menu-icon”>: Contém o ícone do menu para dispositivos móveis.
-<div class=“mobile-menu”>: Define o menu que será exibido em dispositivos móveis.
+header: Define o cabeçalho da página.
+nav class=“nav-bar”: Cria uma barra de navegação com três seções principais:
+div class=“logo”: Contém o logotipo do site.
+div class=“nav-list”: Contém a lista de links de navegação.
+div class=“login-button”: Contém o botão de login.
+div class=“mobile-menu-icon”: Contém o ícone do menu para dispositivos móveis.
+div class=“mobile-menu”: Define o menu que será exibido em dispositivos móveis.
   
 # assets/css/style.css
 Este arquivo CSS define o estilo visual do seu site. Aqui estão alguns pontos importantes:
