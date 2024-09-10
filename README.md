@@ -5,7 +5,7 @@ Este código cria um menu de navegação responsivo que se adapta a diferentes t
 # index.html
 Este arquivo HTML define a estrutura básica do seu site. Aqui está o que cada parte faz:
 
-<!DOCTYPE html>: Declara o tipo de documento como HTML5.
+<!DOCTYPE html> Declara o tipo de documento como HTML5.
 <html lang=“pt-br”>: Define o idioma da página como português do Brasil.
 <head>: Contém metadados sobre o documento, como o conjunto de caracteres, a compatibilidade com navegadores e o link para o arquivo CSS.
 <body>: Contém o conteúdo visível da página.
